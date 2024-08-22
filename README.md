@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🚀 Backend Developer with 2 years of experience
+- 🌱 Continuous learning
+- 👯 Coding is not just a job, it's my life
+- 💡 Using code to solve real-life challenges
+- 📚 Learning and Work Records: [HSUHAOBM's Blog](https://hsuhaobm.github.io/hexo_next_blog/)
