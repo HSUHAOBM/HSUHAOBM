@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 Continuous learning
 - 👯 Coding is not just a job, it's my life
 - 💡 Using code to solve real-life challenges
-- 📚 Learning and Work Records: [HSUHAOBM's Blog](https://hsuhaobm.github.io/hexo_next_blog/)
+- 📚 Learning and Work Records: [HSUHAOBM's Learning Records](https://hsuhaobm.github.io/hexo_next_blog/)
